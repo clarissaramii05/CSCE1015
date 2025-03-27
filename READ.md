@@ -1,0 +1,2 @@
+## Favorite Linux Command
+$clear
